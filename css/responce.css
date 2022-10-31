@@ -4,25 +4,17 @@
 }
 @media (min-width: 576px) and (max-width: 767px) {
     .work__space h1, .work__space h3 {
-        line-height: 4em;
-        transition: all 0.2s;
+        font-size: 6rem;
     }
 }
 @media (min-width: 768px) and (max-width: 991px) {
     .work__space h1, .work__space h3 {
-        line-height: 4em;
-        transition: all 0.2s;
+        font-size: 6rem;
     }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
-    .work__space h1, .work__space h3 {
-        line-height: 4em;
-        transition: all 0.2s;
-    }
+    
 }
 @media (min-width: 1200px) {
-.work__space h1, .work__space h3 {
-        line-height: 4em;
-        transition: all 0.2s;
-    }
+
 }
